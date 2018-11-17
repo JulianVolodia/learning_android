@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Graham Baldeck</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Managing risk comes from the enterprise’s need to share information and protect resources from unauthorized use.
+        \n\nProtecting information from unauthorized is only one of the concerns, however.
+        \n\nPhysical forms such as fires, floods, and earthquakes should be taken into consideration as well.
+        \n\nIncluding security and privacy in an EA program helps to mitigate these risks in all areas of the enterprise.
+        \n\nThe physical security that should be reflected in the Security and Privacy plan are controls for the facilities that support IT processing,
+        \n\ncontrol of access to buildings, equipment, networks, telecommunication rooms, fire protection, media storage, and disaster recovery systems.
+        \n\nThere are a number of strategies in enforcing this security.
+        \n\nFor instance, building security may require a physical wall surround the building’s area.
+        \n\nThe requirements of physical security will be different between organizations.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
